@@ -28,6 +28,10 @@ h2 {color: #83167C;}
   text-decoration: none;
 }
 
+main{
+  padding: 25px;
+}
+
 table {
   background-color: #deaedb;
   margin-left: auto;
